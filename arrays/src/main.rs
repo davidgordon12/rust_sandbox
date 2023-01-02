@@ -13,3 +13,8 @@ fn main() {
 
     println!("{:#?}", array);
 }
+
+fn build_vector
+{
+    
+}
